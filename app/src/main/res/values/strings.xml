@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myAppFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_cachorros">Animais de estimação apresentam diversas funções na sociedade humana, sendo frequentemente citados como formas de se trazer conforto, companhia e aumentar a autoestima das pessoas</string>
+    <string name="texto_gatos">Animais de estimação apresentam diversas funções na sociedade humana, sendo frequentemente citados como formas de se trazer conforto, companhia e aumentar a autoestima das pessoas</string>
+    <string name="texto_passaros">Animais de estimação apresentam diversas funções na sociedade humana, sendo frequentemente citados como formas de se trazer conforto, companhia e aumentar a autoestima das pessoas</string>
+    <string name="titulo_pets">Titulo Pets</string>
+    <string name="rating">8.5</string>
+</resources>

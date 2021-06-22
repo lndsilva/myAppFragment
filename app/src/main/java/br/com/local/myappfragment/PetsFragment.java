@@ -17,7 +17,7 @@ public class PetsFragment extends Fragment {
 
     ListView listaPets;
 
-    String titulo_Pets[] = {"Cachorros", "Gatos", "Passáros"};
+    String titulo_Pets[] = {"Cachorros", "Gatos", "Pássaros"};
     int descricao_Pets[] = {R.string.texto_cachorros, R.string.texto_gatos, R.string.texto_passaros};
     String valor_Pets[] = {"8.5", "8.6", "8.7"};
     int imagem_Pets[] = {R.drawable.dog, R.drawable.gato, R.drawable.passaro};
